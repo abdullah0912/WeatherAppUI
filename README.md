@@ -1,4 +1,4 @@
-# flutter Weather App UI
+# Weather App UI
 ### - Hello friends! This is a simple weather app has coded with flutter on Visual Studio Code IDE
 
 - I used Visual Studio Code as IDE for this project
